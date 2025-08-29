@@ -1,1 +1,2 @@
-# LS-Taller-GIT
+# LS-Taller-GIT 
+Lucas Sanabria
